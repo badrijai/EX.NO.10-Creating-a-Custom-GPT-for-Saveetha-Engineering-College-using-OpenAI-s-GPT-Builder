@@ -57,7 +57,7 @@ The screen below shows a sample conversation with the published “Saveetha Engi
 ## OUTPUT
 A working Custom GPT named “Saveetha Engineering College Assistant” is created and published. When a user asks questions like “What courses does Saveetha offer?” or “How can I apply for B.Tech admission?”, the GPT replies with accurate information drawn from the uploaded college knowledge files, in a friendly and professional tone.
 ## RESULT
-Thus, a Custom GPT chatbot for Saveetha Engineering College was successfully designed, configured with knowledge files and instructions, tested, and published using OpenAI's GPT
+Thus,a Custom GPT chatbot for Saveetha Engineering College was successfully designed, configured with knowledge files and instructions, tested, and published using OpenAI's GPT
 Builder.
 
 ## CONCLUSION
